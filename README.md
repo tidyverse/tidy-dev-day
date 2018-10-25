@@ -10,13 +10,15 @@ people who’ve chosen lodging based on the rstudio::conf location. However,
 if you're in Austin and want to join, you're more than welcome regardless of 
 whether or not you attended rstudio::conf.
 
+
+
 ### Squad goals 🎯
 
-There will be more details to come, but the idea is to have a day where we 
-can work together on anything ranging from submitting your first pull request, 
-to working on your own package. The tidyverse team will be there, so we can 
-help you hit the ground running and/or get over any stumbling blocks that you 
-encounter. Don't have any ideas for something to work on? No problem! We'll 
+The broad goal of this event is to nurture regular contributors to the tidyverse by 
+having a day where we can work together on anything ranging from submitting your 
+first pull request, to working on a package. The tidyverse team will be there, 
+so we can help you hit the ground running and/or get over any stumbling blocks that 
+you encounter. Don't have any ideas for something to work on? No problem! We'll 
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
 
