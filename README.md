@@ -24,7 +24,7 @@ everyone, regardless of level of expertise.
 
 Because space is limited, we'll be charging a $10 fee of for 
 [tickets](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687),
-all of which will be donated to charity ([Code2College](https://code2college.org/about/).
+all of which will be donated to charity ([Code2College](https://code2college.org/about/)).
 
 ### Code of Conduct
 
