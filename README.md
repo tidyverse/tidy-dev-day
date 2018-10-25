@@ -20,11 +20,6 @@ encounter. Don't have any ideas for something to work on? No problem! We'll
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
 
-### Bonus 🎉
-
-Hadley has promised "the best BBQ in Texas," so feel free to take that into 
-account. We're excited to give this a whirl, and hope to see you there!
-
 ### Tickets 🎟
 
 Because space is limited, we'll be charging a $10 fee of for 
