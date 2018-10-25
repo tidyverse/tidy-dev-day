@@ -31,8 +31,8 @@ all of which will be donated to charity ([Code2College](https://code2college.org
 ### Code of Conduct
 
 The [rstudio::conf Code of Conduct](http://www.cvent.com/events/rstudio-conf-austin/custom-17-dd6d75526f3c4554b67c4de32aeffb47.aspx)
-applies to tidyverse developer day as well. An updated version with event-specific contact 
-information will be posted soon.
+applies to tidyverse developer day as well. An updated event-specific version, with appropriate contact 
+information can be found [here](https://github.com/tidyverse/dev-day-2019/blob/master/CODE_OF_CONDUCT.md).
 
 ### Questions?
 
