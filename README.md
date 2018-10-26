@@ -8,8 +8,8 @@ On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), 
 
 * When: January 19th, 9am-4pm.
 
-* Who: Anyone would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made you 10th package. 
-
+* Who: Anyone would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you'vr already made you 10th package. 
+We'll also host some discussions about future development plans for tidymodels.
 * What: A day of learning and coding. We'll provide breakfast, lunch, snacks, and coffee; you'll bring your laptop and enthusiasm. The tidyverse team will be on hand to help out and answer your questions.
 
 ### Squad goals 🎯
@@ -28,7 +28,7 @@ Tickets are [__on sale now__!](https://www.eventbrite.com/e/tidyverse-developer-
 
 Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers"
 
-### Code of Conduct
+#.## Code of Conduct
 
 All attendees are bound by the [rstudio::conf Code of Conduct](CODE_OF_CONDUCT.md).
 
