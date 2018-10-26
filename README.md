@@ -2,15 +2,15 @@
 
 ### Save the date 📆
 
-On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/) (**January 19th**), 
-we'll be holding our first ever **tidyverse developer day**. The event will 
-go from **9am - 4pm**, to allow time for those who need to catch evening flights.
-The venue is not settled yet, but the intent is to make it convenient for 
-people who’ve chosen lodging based on the rstudio::conf location. However, 
-if you're in Austin and want to join, you're more than welcome regardless of 
-whether or not you attended rstudio::conf.
+On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/),  we'll be holding our first ever **tidyverse developer day**. 
 
+* Where: TBA, close to the [rstudio::conf](https://www.rstudio.com/conference/) hotel.
 
+* When: January 19th, 9am-4pm.
+
+* Who: Anyone would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made you 10th package. 
+
+* What: A day of learning and coding. We'll provide breakfast, lunch, snacks, and coffee; you'll bring your laptop and enthusiasm. The tidyverse team will be on hand to help out and answer your questions.
 
 ### Squad goals 🎯
 
@@ -24,15 +24,13 @@ everyone, regardless of level of expertise.
 
 ### Tickets 🎟
 
-Because space is limited, we'll be charging a $10 fee of for 
-[tickets](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687),
-all of which will be donated to charity ([Code2College](https://code2college.org/about/)).
+Tickets are [__on sale now__!](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687)
+
+Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers"
 
 ### Code of Conduct
 
-The [rstudio::conf Code of Conduct](http://www.cvent.com/events/rstudio-conf-austin/custom-17-dd6d75526f3c4554b67c4de32aeffb47.aspx)
-applies to tidyverse developer day as well. An updated event-specific version, with appropriate contact 
-information can be found [here](https://github.com/tidyverse/dev-day-2019/blob/master/CODE_OF_CONDUCT.md).
+All attendees are bound by the [rstudio::conf Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Questions?
 
