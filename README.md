@@ -8,7 +8,7 @@ On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), 
 
 * When: January 19th, 9am-4pm.
 
-* Who: Anyone would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made you 10th package. 
+* Who: Anyone would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. 
 
 * What: A day of learning and coding. We'll provide breakfast, lunch, snacks, and coffee; you'll bring your laptop and enthusiasm. The tidyverse team will be on hand to help out and answer your questions.
 
