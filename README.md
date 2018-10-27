@@ -28,7 +28,7 @@ Tickets are [__on sale now__!](https://www.eventbrite.com/e/tidyverse-developer-
 
 Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers"
 
-#.## Code of Conduct
+### Code of Conduct
 
 All attendees are bound by the [rstudio::conf Code of Conduct](CODE_OF_CONDUCT.md).
 
