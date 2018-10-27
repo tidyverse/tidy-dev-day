@@ -2,14 +2,14 @@
 
 ### Save the date 📆
 
-On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/),  we'll be holding our first ever **tidyverse developer day**. 
+On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), we'll be holding our first ever **tidyverse developer day**. 
 
 * Where: TBA, close to the [rstudio::conf](https://www.rstudio.com/conference/) hotel.
 
 * When: January 19th, 9am-4pm.
 
-* Who: Anyone would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you'vr already made you 10th package. 
-We'll also host some discussions about future development plans for tidymodels.
+* Who: Anyone who would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. We'll also host some discussions about future development plans for tidymodels.
+
 * What: A day of learning and coding. We'll provide breakfast, lunch, snacks, and coffee; you'll bring your laptop and enthusiasm. The tidyverse team will be on hand to help out and answer your questions.
 
 ### Squad goals 🎯
@@ -26,7 +26,7 @@ everyone, regardless of level of expertise.
 
 Tickets are [__on sale now__!](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687)
 
-Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers"
+Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers".
 
 ### Code of Conduct
 
