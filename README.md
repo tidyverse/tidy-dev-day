@@ -22,8 +22,7 @@ you encounter. Don't have any ideas for something to work on? No problem! We'll
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
 
-See GitHub issues: <a href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22"><img src="img/tidy-dev-day-issue-label.png" style="height:30px;border:0;"></a>
-See GitHub issues: <a style="background-color: #CBBAB8; color: #000000; border-radius: 2px; box-shadow: inset 0 -1px 0 rgba(27,31,35,.12); padding: .15em 4px; font-weight: 600; font-size: 12px; height: 20px; line-height: 15px" aria-label="Tidyverse Developer Day rstd.io/tidy-dev-day" href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22">tidy-dev-day <g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f913.png">🤓</g-emoji></a>
+See GitHub issues: <a href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22"><img src="img/tidy-dev-day-issue-label.png" style="height:24px;border:0;" alt-text="tidy-dev-day" aria-label="Tidyverse Developer Day rstd.io/tidy-dev-day"></a>
 
 ### Tickets 🎟
 
