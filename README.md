@@ -22,6 +22,8 @@ you encounter. Don't have any ideas for something to work on? No problem! We'll
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
 
+See GitHub issues: <a href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22"><img src="img/tidy-dev-day-issue-label.png" style="height:30px;border:0;"></a>
+
 ### Tickets 🎟
 
 Tickets are [~~on sale now!~~](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687) __sold out__, but you can join the waitlist.
