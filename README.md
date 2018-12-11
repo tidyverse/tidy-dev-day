@@ -4,7 +4,7 @@
 
 On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), we'll be holding our first ever **tidyverse developer day**. 
 
-* Where: TBA, close to the [rstudio::conf](https://www.rstudio.com/conference/) hotel.
+* Where: [The Sunset Room](https://www.sunsetroomaustin.com/), just a couple blocks away from where rstudio::conf is being held.
 
 * When: January 19th, 9am-4pm.
 
@@ -24,7 +24,7 @@ everyone, regardless of level of expertise.
 
 ### Tickets 🎟
 
-Tickets are [__on sale now__!](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687)
+Tickets are [~~on sale now!~~](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687) __sold out__, but you can join the waitlist.
 
 Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers".
 
