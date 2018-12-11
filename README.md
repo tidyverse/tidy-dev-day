@@ -22,7 +22,7 @@ you encounter. Don't have any ideas for something to work on? No problem! We'll
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
 
-See GitHub issues: <a href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22"><img src="img/tidy-dev-day-issue-label.png" style="height:30px;border:0;"></a>
+See GitHub issues: <a href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22"><img src="img/tidy-dev-day-issue-label.png" style="height:24px;border:0;" alt-text="tidy-dev-day" aria-label="Tidyverse Developer Day rstd.io/tidy-dev-day"></a>
 
 ### Tickets 🎟
 
