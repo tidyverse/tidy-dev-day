@@ -22,7 +22,17 @@ you encounter. Don't have any ideas for something to work on? No problem! We'll
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
 
-See GitHub issues: <a href="https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22"><img src="img/tidy-dev-day-issue-label.png" style="height:24px;border:0;" alt-text="tidy-dev-day" aria-label="Tidyverse Developer Day rstd.io/tidy-dev-day"></a>
+### On the day
+
+See GitHub issues: 
+
+* [Issues tagged tidy-dev-day](https://github.com/search?q=is%3Aissue+label%3A%22tidy-dev-day+%3Anerd_face%3A%22)
+* [Issues tagged help-wanted](https://github.com/search?q=is%3Aissue+label%3A%22help%20wanted+%3heart%3A%22)
+* [Issues tagged reprex](https://github.com/search?q=is%3Aissue+label%3A%22reprex)
+
+If you start working on an issue, please comment to "claim it" so that others don't work on it. 
+
+If you working on an issue tag isn't already tagged, please comment requesting that @batpigandme add the tidy-dev-day tag (that'll help us summarise ).
 
 ### Tickets 🎟
 
