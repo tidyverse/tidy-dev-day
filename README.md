@@ -27,8 +27,8 @@ everyone, regardless of level of expertise.
 See GitHub issues: 
 
 * [Issues tagged tidy-dev-day](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22tidy-dev-day+%3Anerd_face%3A%22)
-* [Issues tagged help-wanted](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted+%3heart%3A%22)
-* [Issues tagged reprex](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22reprex)
+* [Issues tagged help-wanted](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted+%3Aheart%3A%22+&state=open&type=Issues)
+* [Issues tagged reprex](https://github.com/search?q=is%3Aopen+label%3Areprex+&state=open&type=Issues)
 
 If you start working on an issue, please comment to "claim it" so that others don't work on it. But you're encouraged to team up!
 
