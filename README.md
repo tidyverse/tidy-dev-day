@@ -30,9 +30,9 @@ See GitHub issues:
 * [Issues tagged help-wanted](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted+%3heart%3A%22)
 * [Issues tagged reprex](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22reprex)
 
-If you start working on an issue, please comment to "claim it" so that others don't work on it. 
+If you start working on an issue, please comment to "claim it" so that others don't work on it. But you're encouraged to team up!
 
-If you working on an issue tag isn't already tagged, please comment requesting that @batpigandme add the tidy-dev-day tag (that'll help us summarise ).
+If you're working on an issue that doesn't already have the tidy-dev-day label, please comment requesting that @batpigandme add it. This makes it more visibile to us and helps us track tidyverse developer day activities.
 
 ### Tickets 🎟
 
