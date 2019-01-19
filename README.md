@@ -2,7 +2,7 @@
 
 [Overview slides](overview.pdf)
 
-### Save the date 📆
+### Save the date
 
 On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), we'll be holding our first ever **tidyverse developer day**. 
 
@@ -14,7 +14,7 @@ On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), 
 
 * What: A day of learning and coding. We'll provide breakfast, lunch, snacks, and coffee; you'll bring your laptop and enthusiasm. The tidyverse team will be on hand to help out and answer your questions.
 
-### Squad goals 🎯
+### Squad goals
 
 The broad goal of this event is to nurture regular contributors to the tidyverse by 
 having a day where we can work together on anything ranging from submitting your 
@@ -52,7 +52,7 @@ Sketch of R side (if working in a package)
   * `devtools::check()` to make sure all is well.
   * Push and make a PR, including text like "Closes #123".
 
-### Tickets 🎟
+### Tickets
 
 Tickets are [~~on sale now!~~](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687) __sold out__, but you can join the waitlist.
 
