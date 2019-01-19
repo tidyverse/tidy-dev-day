@@ -37,7 +37,9 @@ Sketch of R side (if working in a package)
   * `devtools::check()` to make sure all is well.
   * Push and make a PR, including text like "Closes #123".
 
-### Save the date
+### 4. Celebrate!
+
+## Save the date
 
 On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), we'll be holding our first ever **tidyverse developer day**. 
 
@@ -65,11 +67,11 @@ Tickets are [~~on sale now!~~](https://www.eventbrite.com/e/tidyverse-developer-
 
 Tickets cost $10; we're charging a small fee because space is limited. All fees will be donated to [Code2College](https://code2college.org/about/), a local charity that "aims to dramatically increase the number of minority and low-income high school students who enter and excel in STEM undergraduate majors and careers".
 
-### Code of Conduct
+## Code of Conduct
 
 All attendees are bound by the [rstudio::conf Code of Conduct](CODE_OF_CONDUCT.md).
 
-### Questions?
+## Questions?
 
 Have questions? Head over to the [tidyverse developer day](https://community.rstudio.com/t/tidyverse-developer-day/13146) 
 thread on the RStudio community site!
