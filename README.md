@@ -34,6 +34,22 @@ If you start working on an issue, please comment to "claim it" so that others do
 
 If you're working on an issue that doesn't already have the tidy-dev-day label, please comment requesting that @batpigandme add it. This makes it more visibile to us and helps us track tidyverse developer day activities.
 
+### Process tips re: making a pull request
+
+Some relevant parts of [Happy Git](https://happygitwithr.com)
+
+  * [Fork and clone](https://happygitwithr.com/fork-and-clone.html) then [Add the `upstream` remote](https://happygitwithr.com/upstream-changes.html#add-the-upstream-remote)
+  * [Push](https://happygitwithr.com/push-rejected.html) and [pull](https://happygitwithr.com/pull-tricky.html) when there are commits on GitHub that you don't have
+  
+Sketch of R side (if working in a package)
+
+  * Fork and clone (see above) and **create a new branch**.
+  * `devtools::check()` to get baseline, hopefully all is well.
+  * Make your change.
+  * `devtools::document()`
+  * `devtools::check()` to make sure all is well.
+  * Push and make a PR, including text like "Closes #123".
+
 ### Tickets 🎟
 
 Tickets are [~~on sale now!~~](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687) __sold out__, but you can join the waitlist.
