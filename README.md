@@ -1,6 +1,41 @@
 # Tidyverse developer day 2019
 
+
+## Workflow
+
 [Overview slides](overview.pdf)
+
+### 1. Find an issue
+
+* [Issues tagged tidy-dev-day](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22tidy-dev-day+%3Anerd_face%3A%22)
+* [Issues tagged help-wanted](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted+%3Aheart%3A%22+&state=open&type=Issues)
+* [Issues tagged reprex](https://github.com/search?q=is%3Aopen+label%3Areprex+&state=open&type=Issues)
+
+If you start working on an issue, please comment to "claim it" so that others don't work on it. But you're encouraged to team up!
+
+If you're working on an issue that doesn't already have the tidy-dev-day label, please comment requesting that @batpigandme add it. This makes it more visibile to us and helps us track tidyverse developer day activities.
+
+### 2. Claim your issue
+
+Add a comment saying that you're working on it so no one duplicates work.
+
+### 3. Make a PR
+
+If you have never done a PR before, find Mara, Jenny, Alison, or Mine (or anyone else from RStudio) to help you through the mechanics.
+
+Some relevant parts of [Happy Git](https://happygitwithr.com)
+
+  * [Fork and clone](https://happygitwithr.com/fork-and-clone.html) then [Add the `upstream` remote](https://happygitwithr.com/upstream-changes.html#add-the-upstream-remote)
+  * [Push](https://happygitwithr.com/push-rejected.html) and [pull](https://happygitwithr.com/pull-tricky.html) when there are commits on GitHub that you don't have
+  
+Sketch of R side (if working in a package)
+
+  * Fork and clone (see above) and **create a new branch**.
+  * `devtools::check()` to get baseline, hopefully all is well.
+  * Make your change.
+  * `devtools::document()`
+  * `devtools::check()` to make sure all is well.
+  * Push and make a PR, including text like "Closes #123".
 
 ### Save the date
 
@@ -23,34 +58,6 @@ so we can help you hit the ground running and/or get over any stumbling blocks t
 you encounter. Don't have any ideas for something to work on? No problem! We'll 
 be tagging issues in advance to make sure there's lots to do for any- and 
 everyone, regardless of level of expertise.
-
-### On the day
-
-See GitHub issues: 
-
-* [Issues tagged tidy-dev-day](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22tidy-dev-day+%3Anerd_face%3A%22)
-* [Issues tagged help-wanted](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted+%3Aheart%3A%22+&state=open&type=Issues)
-* [Issues tagged reprex](https://github.com/search?q=is%3Aopen+label%3Areprex+&state=open&type=Issues)
-
-If you start working on an issue, please comment to "claim it" so that others don't work on it. But you're encouraged to team up!
-
-If you're working on an issue that doesn't already have the tidy-dev-day label, please comment requesting that @batpigandme add it. This makes it more visibile to us and helps us track tidyverse developer day activities.
-
-### Process tips re: making a pull request
-
-Some relevant parts of [Happy Git](https://happygitwithr.com)
-
-  * [Fork and clone](https://happygitwithr.com/fork-and-clone.html) then [Add the `upstream` remote](https://happygitwithr.com/upstream-changes.html#add-the-upstream-remote)
-  * [Push](https://happygitwithr.com/push-rejected.html) and [pull](https://happygitwithr.com/pull-tricky.html) when there are commits on GitHub that you don't have
-  
-Sketch of R side (if working in a package)
-
-  * Fork and clone (see above) and **create a new branch**.
-  * `devtools::check()` to get baseline, hopefully all is well.
-  * Make your change.
-  * `devtools::document()`
-  * `devtools::check()` to make sure all is well.
-  * Push and make a PR, including text like "Closes #123".
 
 ### Tickets
 
