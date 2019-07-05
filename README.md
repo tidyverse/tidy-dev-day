@@ -61,10 +61,10 @@ Sketch of R side (if working in a package)
 ## Tidyverse Dev Days
 
   * 2019 July 8, before [useR! Toulouse](https://user2019.r-project.org)
-    - Held at [main useR! venue](https://user2019.r-project.org/travel/) =
+    - Room Ariane 1&2 on the first floor of [main useR! venue](https://user2019.r-project.org/travel/) =
       [Centre de Congrès Pierre Baudis](https://goo.gl/maps/3abG1CLHoE2gEDj19)
-    - 9:00 AM to 5:00 PM
-    - *food and drink provided, details coming*
+    - 9:00 AM to 5:00 PM (dev day itself); conference centre security opens at 8:30 AM
+    - Coffee breaks, lunch, and end-of-day apéritif all provided (thanks useR!)
   * 2019 January 19th, following
     [rstudio::conf](https://www.rstudio.com/conference/) (inaugural event).
 
