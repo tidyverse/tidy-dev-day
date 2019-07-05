@@ -24,16 +24,18 @@ If you work on an issue that doesn't already have the tidy-dev-day label, please
 
 If you have never done a PR before, feel free to ask for help from any of the designated helpers. Our whole job today is to help people through these mechanics.
 
-The usethis article [Pull request helpers](https://usethis.r-lib.org/articles/articles/pr-functions.html) shows how to work through a PR using the `pr_*()` functions. 
-
 [Happy Git](https://happygitwithr.com) describes some relevant workflows, such as:
 
   * [Fork and clone](https://happygitwithr.com/fork-and-clone.html) then [Add the `upstream` remote](https://happygitwithr.com/upstream-changes.html#add-the-upstream-remote)
   * [Push](https://happygitwithr.com/push-rejected.html) and [pull](https://happygitwithr.com/pull-tricky.html) when there are commits on GitHub that you don't have
   
+  
+The usethis article [Pull request helpers](https://usethis.r-lib.org/articles/articles/pr-functions.html) shows how to work through a PR using the `pr_*()` functions. 
+
 Sketch of R side (if working in a package)
 
   * **Fork** and clone (see above) and **create a new non-`master` branch**.
+    - `usethis::create_from_github()` + `pr_init()` are great for this!
   * `devtools::install_dev_deps()` to make sure you've got the necessary packages.
   * `devtools::check()` to get baseline, hopefully all is well.
   * Make your change. Add a test or two, if relevant.
@@ -45,6 +47,7 @@ Sketch of R side (if working in a package)
     - Example: "`use_circleci()` creates a `.circleci/config.yaml` config file
       for CircleCI (#703, @jdblischak)."
   * Push and make a PR.
+    - `usethis::pr_push()` is great for this!
     - Make the title descriptive:
       - Not good: "Working on issue 45"
       - Much better: "Use stricter regexes for package and file name checks"
