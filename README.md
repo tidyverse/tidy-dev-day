@@ -35,7 +35,7 @@ The usethis article [Pull request helpers](https://usethis.r-lib.org/articles/ar
 Sketch of R side (if working in a package)
 
   * **Fork** and clone (see above) and **create a new non-`master` branch**.
-    - `usethis::create_from_github()` + `pr_init()` are great for this!
+    - `usethis::create_from_github()` + `pr_init()` are great for this! Make sure your Github personal access token is configured before you use `create_from_github()`, otherwise you will just clone the repo instead of forking and cloning it. See the docs for `create_from_github()` (or the above resources) for instructions! 
   * `devtools::install_dev_deps()` to make sure you've got the necessary packages.
   * `devtools::check()` to get baseline, hopefully all is well.
   * Make your change. Add a test or two, if relevant.
