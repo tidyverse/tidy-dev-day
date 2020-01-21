@@ -1,4 +1,4 @@
-# Tidyverse developer day 2019
+# Tidyverse developer day
 
 ## Workflow
 
