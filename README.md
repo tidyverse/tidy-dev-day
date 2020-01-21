@@ -61,9 +61,9 @@ Sketch of R side (if working in a package)
 ## Tidyverse Dev Days
 
   * 2020 January 31, following [rstudio::conf(2020)](https://rstd.io/conf)
-   - [Microsoft Reactor, San Francisco](https://www.google.com/maps/place/Microsoft+Reactor/@37.7846235,-122.3982283,15z/data=!4m5!3m4!1s0x0:0x97838fa44b46f66a!8m2!3d37.7846235!4d-122.3982283?shorturl=1)
-   - 9:00 AM to 5:00 PM
-   - Coffee, lunch, and snacks provided!
+    - [Microsoft Reactor, San Francisco](https://www.google.com/maps/place/Microsoft+Reactor/@37.7846235,-122.3982283,15z/data=!4m5!3m4!1s0x0:0x97838fa44b46f66a!8m2!3d37.7846235!4d-122.3982283?shorturl=1)
+    - 9:00 AM to 5:00 PM
+    - Coffee, lunch, and snacks provided!
   * 2019 July 8, before [useR! Toulouse](https://user2019.r-project.org)
     - Room Ariane 1&2 on the first floor of [main useR! venue](https://user2019.r-project.org/travel/) =
       [Centre de Congrès Pierre Baudis](https://goo.gl/maps/3abG1CLHoE2gEDj19)
