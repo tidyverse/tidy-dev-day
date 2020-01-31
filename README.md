@@ -16,7 +16,7 @@ Once you've picked an post-it, open up the issue and read the details in full. A
 
 * Set up your GitHub personal access token with [?browse_github_pat](https://usethis.r-lib.org/reference/browse_github_token.html).
 
-* **Fork** and clone the repo `usethis::create_from_github("{username}/{repo}")`
+* **Fork** and clone the repo `usethis::create_from_github("{username}/{repo}")` (removing the curly braces)
 
 * `devtools::install_dev_deps()` to make sure you've got the necessary packages.
 
