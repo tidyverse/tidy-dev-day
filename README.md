@@ -55,21 +55,18 @@ Once your PR is merged, it's your job to move it from "reviewed" to "celebrated"
 
 ## Tidyverse Dev Days
 
-  * 2020 January 31, following [rstudio::conf(2020)](https://rstd.io/conf)
-    - [Microsoft Reactor, San Francisco](https://www.google.com/maps/place/Microsoft+Reactor/@37.7846235,-122.3982283,15z/data=!4m5!3m4!1s0x0:0x97838fa44b46f66a!8m2!3d37.7846235!4d-122.3982283?shorturl=1)
-    - 9:00 AM to 5:00 PM
-    - Coffee, lunch, and snacks provided!
-  * 2019 July 8, before [useR! Toulouse](https://user2019.r-project.org)
-    - Room Ariane 1&2 on the first floor of [main useR! venue](https://user2019.r-project.org/travel/) =
-      [Centre de Congrès Pierre Baudis](https://goo.gl/maps/3abG1CLHoE2gEDj19)
-    - 9:00 AM to 5:00 PM (dev day itself); conference centre security opens at 8:30 AM
-    - Coffee breaks, lunch, and end-of-day apéritif all provided (thanks useR!)
-  * 2019 January 19th, following
-    [rstudio::conf](https://www.rstudio.com/conference/) (inaugural event).
+* [2020-01-31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/),
+  following [rstudio::conf(2020)](https://rstd.io/conf)
+* [2019-07-08](https://www.tidyverse.org/blog/2019/04/tidyverse-dev-day-at-user-2019/),
+  before [useR! Toulouse](https://user2019.r-project.org)
+* [2019-01-19](https://www.tidyverse.org/blog/2018/11/tidyverse-developer-day-2019/), 
+  following [rstudio::conf](https://www.rstudio.com/conference/).
 
 **Who?** Anyone who would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. But please get a ticket (see below).
 
 **What?** A day of learning and coding. We'll provide food; you'll bring your laptop and enthusiasm. The tidyverse team and other community helpers will be on hand to help out and answer your questions.
+
+You can find out more about how the day feels by reading write ups from previous participants: [Ryo Nakagawara](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/), [Julia Silge](https://juliasilge.com/blog/rstudio-conf-2019/#bonus-round), [Angela Li](https://docs.google.com/presentation/d/1iodn7rsklI1wryld-NN_Dslr7tHM0xyoMx2C3RRFTJc/edit#slide=id.g4f3d8da43d_0_4) 
 
 ### Squad goals
 
