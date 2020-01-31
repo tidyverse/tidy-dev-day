@@ -20,6 +20,8 @@ Once you've picked an post-it, open up the issue and read the details in full. A
 
 * `devtools::install_dev_deps()` to make sure you've got the necessary packages.
 
+* Restart R.
+
 * `devtools::check()` to get baseline, hopefully all is well. If it isn't, 
   seek help.
 
