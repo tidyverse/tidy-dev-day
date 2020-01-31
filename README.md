@@ -86,7 +86,7 @@ The broad goal of this event is to nurture regular contributors to the tidyverse
 
 ## Code of Conduct
 
-All attendees are bound by the [rstudio::conf Code of Conduct](CODE_OF_CONDUCT.md).
+All attendees are bound by the [rstudio::conf Code of Conduct](CODE_OF_CONDUCT.md). If you have problems please contact Hadley or Jenny in person, via email <hadley@rstudio.com>/<jenny@rstudio.com>, or call/text Hadley: 515-450-8171.
 
 ## Questions?
 
