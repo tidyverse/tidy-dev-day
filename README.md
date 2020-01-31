@@ -40,6 +40,8 @@ Once you've picked an post-it, open up the issue and read the details in full. A
 
 * `devtools::check()` to make sure all is still well.
 
+* Commit the change with your git client
+
 * If the feature is user facing (i.e. it adds a new feature or fixes a bug), add a bullet to NEWS.
   - Be concise, link to issue, tag yourself.
   - Example: "`use_circleci()` creates a `.circleci/config.yaml` config file
