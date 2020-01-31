@@ -6,15 +6,24 @@
 
 If you have never done a PR before, feel free to ask for help from any of the designated helpers! Our whole job today is to help YOU. 
 
+### 0. Get ready
+
+1. `install.packages(c("usethis", "devtools"))`
+
+1. Set up your GitHub personal access token with [?browse_github_pat](https://usethis.r-lib.org/reference/browse_github_token.html).
+
+1. Call `usethis::git_sitrep()` and check that:
+    * Your name and email address appears in "Git config (global)"
+    * Your github user name is found under "Github"
+
 ### 1. Find and claim an issue
 
-Browse the post its, looking for something of interest. If you've never done a PR before, we recommend that you start with a documentation issue since there are slightly fewer moving parts. You're encouraged to team up with a (new) friend and tackle something together!
+Browse the post its, looking for something of interest. If you've never done a PR before, we recommend that you start with a documentation issue since there are slightly fewer moving parts. We also encouraged to team up with a (new) friend and tackle something together!
 
-Once you've picked an post-it, open up the issue and read the details in full. At this point, you might discover the issue is outside your wheelhouse, in which case you can return the post-it to the wall and try agin.
+Once you've picked a post-it, open the issue and read the details in full. At this point, you might discover the issue is outside your wheelhouse; if so, no problems, just return the the post-it to the wall and try again.
 
 ### 2. Get the source locally
 
-* Set up your GitHub personal access token with [?browse_github_pat](https://usethis.r-lib.org/reference/browse_github_token.html).
 
 * **Fork** and clone the repo `usethis::create_from_github("{username}/{repo}")` (removing the curly braces, e.g `usethis::create_from_github("tidyverse/ggplot2")`)
 
