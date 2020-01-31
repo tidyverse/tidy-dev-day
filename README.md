@@ -4,50 +4,62 @@
 
 [Overview slides](overview.pdf)
 
+If you have never done a PR before, feel free to ask for help from any of the designated helpers! Our whole job today is to help YOU. 
+
 ### 1. Find and claim an issue
 
 Browse the post its, looking for something of interest. If you've never done a PR before, we recommend that you start with a documentation issue since there are slightly fewer moving parts. You're encouraged to team up with a (new) friend and tackle something together!
 
 Once you've picked an post-it, open up the issue and read the details in full. At this point, you might discover the issue is outside your wheelhouse, in which case you can return the post-it to the wall and try agin.
 
-### 2. Make a PR
+### 2. Get the source locally
 
-If you have never done a PR before, feel free to ask for help from any of the designated helpers. Our whole job today is to help people through these mechanics.
+* Set up your GitHub personal access token with [?browse_github_pat](https://usethis.r-lib.org/reference/browse_github_token.html).
 
-[Happy Git](https://happygitwithr.com) describes some relevant workflows, such as:
+* **Fork** and clone the repo `usethis::create_from_github("{username}/{repo}")`
 
-  * [Fork and clone](https://happygitwithr.com/fork-and-clone.html) then [Add the `upstream` remote](https://happygitwithr.com/upstream-changes.html#add-the-upstream-remote)
-  * [Push](https://happygitwithr.com/push-rejected.html) and [pull](https://happygitwithr.com/pull-tricky.html) when there are commits on GitHub that you don't have
+* `devtools::install_dev_deps()` to make sure you've got the necessary packages.
+
+* `devtools::check()` to get baseline, hopefully all is well. If it isn't, 
+  seek help.
+
+### 3. Make the change
+
+* Create a new branch for your changes to live with
+  `usethis::pr_init("very-brief-description")`
+
+* Make your change. 
   
-The usethis article [Pull request helpers](https://usethis.r-lib.org/articles/articles/pr-functions.html) shows how to work through a PR using the `pr_*()` functions. 
+  * If you're writing code, add a test or two. 
+    Iterate quickly with `devtools::load_all()` and `devtools::test()`.
+  
+  * If you're writing documentation, use `devtools::document()` to 
+    update the docs.
 
-Sketch of R side (if working in a package)
+* `devtools::check()` to make sure all is still well.
 
-  * **Fork** and clone (see above) and **create a new non-`master` branch**.
-    - `usethis::create_from_github()` + `pr_init()` are great for this! Make sure your Github personal access token is configured before you use `create_from_github()`, otherwise you will just clone the repo instead of forking and cloning it. See the docs for `create_from_github()` (or the above resources) for instructions! 
-  * `devtools::install_dev_deps()` to make sure you've got the necessary packages.
-  * `devtools::check()` to get baseline, hopefully all is well.
-  * Make your change. Add a test or two, if relevant.
-    - Iterate quickly with `load_all()` and `test()`.
-  * `devtools::document()`
-  * `devtools::check()` to make sure all is still well.
-  * If the feature is user facing (i.e. it adds a new feature or fixes a bug), add a bullet to NEWS.
-    - Be concise, link to issue, tag yourself.
-    - Example: "`use_circleci()` creates a `.circleci/config.yaml` config file
-      for CircleCI (#703, @jdblischak)."
-  * Push and make a PR.
-    - `usethis::pr_push()` is great for this!
-    - Make the title descriptive:
-      - Not good: "Working on issue 45"
-      - Much better: "Use stricter regexes for package and file name checks"
-    - In the description (not the title), use the [magic fixes keyword](https://help.github.com/en/articles/closing-issues-using-keywords),
-      e.g. "Fixes #123", to link & close your issue.
-    - Example with descriptive title and description containing magic keywords:
-      [r-lib/usethis/#742](https://github.com/r-lib/usethis/pull/742)  
+* If the feature is user facing (i.e. it adds a new feature or fixes a bug), add a bullet to NEWS.
+  - Be concise, link to issue, tag yourself.
+  - Example: "`use_circleci()` creates a `.circleci/config.yaml` config file
+    for CircleCI (#703, @jdblischak)."
+
+### 4. Submit your PR
+
+Push and make a PR with `usethis::pr_push()`.
+  
+- Make the title descriptive:
+  - Not good: "Working on issue 45"
+  - Much better: "Use stricter regexes for package and file name checks"
+
+- In the description (not the title), use the [magic fixes keyword](https://help.github.com/en/articles/closing-issues-using-keywords),
+  e.g. "Fixes #123", to link & close your issue.
+
+- Example with descriptive title and description containing magic keywords:
+  [r-lib/usethis/#742](https://github.com/r-lib/usethis/pull/742)  
 
 ### 3. Wait for review
 
-Add your post-it to the review wall. Then one of the tidyverse team will take it, read through your PR and offer suggestions for how to improve it. 
+Add your post-it to the review wall. Then one of the tidyverse team will take it, read through your PR and offer suggestions for how to improve it. If you want to work on something else while you wait, use `pr_pause()` to pause your pull request while you work on other stuff.
 
 ### 4. Ring the gong
 
@@ -62,7 +74,7 @@ Once your PR is merged, it's your job to move it from "reviewed" to "celebrated"
 * [2019-01-19](https://www.tidyverse.org/blog/2018/11/tidyverse-developer-day-2019/), 
   following [rstudio::conf](https://www.rstudio.com/conference/).
 
-**Who?** Anyone who would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. But please get a ticket (see below).
+**Who?** Anyone who would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. But you do need a ticket; to provide a fulfilling experience for all attendees we need to carefully manage the ratio of attendees to helpers.
 
 **What?** A day of learning and coding. We'll provide food; you'll bring your laptop and enthusiasm. The tidyverse team and other community helpers will be on hand to help out and answer your questions.
 
