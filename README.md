@@ -2,7 +2,7 @@
 
 ## Workflow
 
-[Overview slides](overview.pdf)
+[Introduction slides](introduction.pdf)
 
 If you have never done a PR before, feel free to ask for help from any of the designated helpers! Our whole job today is to help YOU. 
 
