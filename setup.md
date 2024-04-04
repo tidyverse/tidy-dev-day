@@ -19,3 +19,5 @@
 * Each issue becomes a label (how?)
 
 * Each label is stuck on a post-it: yellow = doc, red = bug, green = feature.
+
+* Make some large labels to group related issues (e.g. ggplot2, r-lib) on the wall.
