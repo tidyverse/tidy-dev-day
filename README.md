@@ -101,10 +101,11 @@ It's possible the reviewer might make changes directly to your review - if that 
 At the end of the day, make sure that you've reinstalled the CRAN versions of any packages you might have installed development versions of. You can find a list of dev version with this code:
 
 ```R
-pkgs <- installed.packages()
-version <- unclass(package_version(pkgs[, "Version"]))
-is_dev <- sapply(version, \(ver) length(ver) == 4 && ver[[4]] >= 9000 && sum(ver[1:3]) > 0)
-as.data.frame(pkgs[is_dev, "Version", drop = FALSE])
+subset(
+  pak::lib_status(),
+  package_version(version)[, 4] >= 9000,
+  c(package, version)
+)
 ```
 
 ## Code of Conduct
