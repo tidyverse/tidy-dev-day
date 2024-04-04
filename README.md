@@ -88,13 +88,15 @@ Push and make a PR with `usethis::pr_push()`.
 - Example with descriptive title and description containing magic keywords:
   [r-lib/usethis/#742](https://github.com/r-lib/usethis/pull/742)  
 
-Ring the gong to celebrate your successful submission!
+- Write your PR number on the post it and move it to the review wall. 
+
+- Ring the gong to celebrate your successful submission!
 
 ### 5. Wait for review
 
-Add your post-it to the review wall. Then one of the tidyverse team will take it, read through your PR and offer suggestions for how to improve it. If you want to work on something else while you wait, use `pr_pause()` to pause your pull request while you work on other stuff.
+One of the tidyverse team will try and review your issue as quickly as possible, reading through your PR and offering suggestions for how to improve it. If you want to work on something else while you wait, use `pr_pause()` to pause your pull request while you work on other stuff. It's possible the reviewer might make changes directly to your review - if that happens you can use `pr_pull()` to get their code back on to your computer.
 
-It's possible the reviewer might make changes directly to your review - if that happens you can use `pr_pull()` to get their code back on to your computer.
+If you've committed a bigger PR, it might take a bit longer to review, and we might not be able to complete it on the day. Don't worry if this happens to you! We really appreciate your contribution and just need a bit more time to take it in.
 
 ## Code of Conduct
 
