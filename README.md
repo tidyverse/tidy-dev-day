@@ -96,6 +96,17 @@ Add your post-it to the review wall. Then one of the tidyverse team will take it
 
 It's possible the reviewer might make changes directly to your review - if that happens you can use `pr_pull()` to get their code back on to your computer.
 
+## Wrap up
+
+At the end of the day, make sure that you've reinstalled the CRAN versions of any packages you might have installed development versions of. You can find a list of dev version with this code:
+
+```R
+pkgs <- installed.packages()
+version <- unclass(package_version(pkgs[, "Version"]))
+is_dev <- sapply(version, \(ver) length(ver) == 4 && ver[[4]] >= 9000 && sum(ver[1:3]) > 0)
+as.data.frame(pkgs[is_dev, "Version", drop = FALSE])
+```
+
 ## Code of Conduct
 
 All attendees are bound by the [Code of Conduct](CODE_OF_CONDUCT.md). If you have problems please contact Hadley or Jenny in person, via email <hadley@posit.co>/<jenny@posit.co>, or call/text Hadley: 515-450-8171.
