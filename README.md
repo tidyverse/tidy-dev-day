@@ -10,7 +10,7 @@ If you have never done a PR before, feel free to ask for help from any of the de
 
 1. `install.packages("pak")`
 
-1. `pak::pak("usethis")`
+1. `pak::pak("devtools")`
 
 1. [Set up your GitHub personal access token](https://usethis.r-lib.org/articles/git-credentials.html#get-a-personal-access-token-pat).
 
