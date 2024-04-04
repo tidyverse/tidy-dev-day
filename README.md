@@ -96,6 +96,18 @@ Add your post-it to the review wall. Then one of the tidyverse team will take it
 
 It's possible the reviewer might make changes directly to your review - if that happens you can use `pr_pull()` to get their code back on to your computer.
 
+## Wrap up
+
+At the end of the day, make sure that you've reinstalled the CRAN versions of any packages you might have installed development versions of. You can find a list of dev version with this code:
+
+```R
+subset(
+  pak::lib_status(),
+  package_version(version)[, 4] >= 9000,
+  c(package, version)
+)
+```
+
 ## Code of Conduct
 
 All attendees are bound by the [Code of Conduct](CODE_OF_CONDUCT.md). If you have problems please contact Hadley or Jenny in person, via email <hadley@posit.co>/<jenny@posit.co>, or call/text Hadley: 515-450-8171.
