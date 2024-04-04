@@ -47,8 +47,13 @@ Once you've picked a post-it, open the issue and read the details in full. At th
 
 * `pak::pak()` to make sure you've got the necessary packages.
 
-* `devtools::check()` to get baseline, hopefully all is well. If it isn't, 
-  seek help.
+* If you're working a documentation issue, run `devtools::document()` to
+  make sure you have everything necessary to update the docs before you 
+  make any changes.
+  
+* If you're working on an bug or feature, run `devtools::check()` to get 
+  a baseline. If `R CMD check` fails, something is probably off with the setup
+  of your machine and you should seek help.
 
 ### 3. Make the change
 
