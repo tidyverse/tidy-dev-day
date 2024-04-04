@@ -1,5 +1,22 @@
 # Tidyverse developer day
 
+**What?** A day of learning and coding to nurture regular contributors to the tidyverse. We'll provide food; you'll bring your laptop and enthusiasm. The tidyverse team and other community helpers will be on hand to help you hit the ground running and/or get over any stumbling blocks that you encounter. Don't have any ideas for something to work on? No problems! We'll be tagging issues in advance to make sure there's lots to do for any- and everyone, regardless of level of expertise.
+
+**Who?** Anyone who would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. But you do need a ticket; to provide a fulfilling experience for all attendees we need to carefully manage the ratio of attendees to helpers.
+
+**How much?** We charge a nominal fee of $10 because we've found that this level of commitment discourages people from taking tickets that they don't use. If the cost would prevent you from attending, please email jenny@posit.co to request a free registration.
+
+## Past Dev Days
+
+* [2020-01-31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/),
+  following [rstudio::conf(2020)](https://rstd.io/conf)
+* [2019-07-08](https://www.tidyverse.org/blog/2019/04/tidyverse-dev-day-at-user-2019/),
+  before [useR! Toulouse](https://user2019.r-project.org)
+* [2019-01-19](https://www.tidyverse.org/blog/2018/11/tidyverse-developer-day-2019/), 
+  following [rstudio::conf](https://www.rstudio.com/conference/).
+
+You can find out more about how the day feels by reading write ups from previous participants: [Ryo Nakagawara](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/), [Julia Silge](https://juliasilge.com/blog/rstudio-conf-2019/#bonus-round), [Angela Li](https://docs.google.com/presentation/d/1iodn7rsklI1wryld-NN_Dslr7tHM0xyoMx2C3RRFTJc/edit#slide=id.g4f3d8da43d_0_4) 
+
 ## Workflow
 
 [Introduction slides](introduction.pdf)
@@ -78,23 +95,6 @@ Ring the gong to celebrate your successful submission!
 Add your post-it to the review wall. Then one of the tidyverse team will take it, read through your PR and offer suggestions for how to improve it. If you want to work on something else while you wait, use `pr_pause()` to pause your pull request while you work on other stuff.
 
 It's possible the reviewer might make changes directly to your review - if that happens you can use `pr_pull()` to get their code back on to your computer.
-
-## Tidyverse Dev Days
-
-* [2020-01-31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/),
-  following [rstudio::conf(2020)](https://rstd.io/conf)
-* [2019-07-08](https://www.tidyverse.org/blog/2019/04/tidyverse-dev-day-at-user-2019/),
-  before [useR! Toulouse](https://user2019.r-project.org)
-* [2019-01-19](https://www.tidyverse.org/blog/2018/11/tidyverse-developer-day-2019/), 
-  following [rstudio::conf](https://www.rstudio.com/conference/).
-
-**What?** A day of learning and coding to nurture regular contributors to the tidyverse. We'll provide food; you'll bring your laptop and enthusiasm. The tidyverse team and other community helpers will be on hand to help you hit the ground running and/or get over any stumbling blocks that you encounter. Don't have any ideas for something to work on? No problems! We'll be tagging issues in advance to make sure there's lots to do for any- and everyone, regardless of level of expertise.
-
-**Who?** Anyone who would like to get better at contributing to the tidyverse! Everyone is welcome regardless of whether you've never done a PR before, or if you've already made your 10th package. But you do need a ticket; to provide a fulfilling experience for all attendees we need to carefully manage the ratio of attendees to helpers.
-
-**How much?** We charge a nominal fee of $10 because we've found that this level of commitment discourages people from taking tickets that they don't use. If the cost would prevent you from attending, please email jenny@posit.co to request a free registration.
-
-You can find out more about how the day feels by reading write ups from previous participants: [Ryo Nakagawara](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/), [Julia Silge](https://juliasilge.com/blog/rstudio-conf-2019/#bonus-round), [Angela Li](https://docs.google.com/presentation/d/1iodn7rsklI1wryld-NN_Dslr7tHM0xyoMx2C3RRFTJc/edit#slide=id.g4f3d8da43d_0_4) 
 
 ## Code of Conduct
 
