@@ -47,7 +47,7 @@ Once you've picked a post-it, open the issue and read the details in full. At th
 
 * `pak::pak()` to make sure you've got the necessary packages.
 
-* If you're working a documentation issue, run `devtools::document()` to
+* If you're working on a documentation issue, run `devtools::document()` to
   make sure you have everything necessary to update the docs before you 
   make any changes.
   
