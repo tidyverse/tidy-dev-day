@@ -12,7 +12,7 @@ To get ready for the day, please follow the steps under "Get ready" at https://g
 - Example of small PR: https://usethis.r-lib.org/articles/pr-functions.html
 - Preparing a system for package dev: https://r-pkgs.org/setup.html
 
-If you haven't made a pull request (PR) before, please also practice this once by following the instructions at ___. (TO DO: Add after merging.)
+If you haven't made a pull request (PR) before, please also practice this once by following the instructions at https://github.com/tidyverse/tidy-dev-day/blob/main/practice-pr/README.md.
 
 Additionally, we will be holding two (optional) hour-long virtual "office hours" for Tidyverse Developer Day participants prior to event to help you with your Git workflow so that you can stroll into TDD confident that your R, RStudio, Git, and GitHub are set up in the most ideal way possible to work in harmony on your laptop. We will also answer any questions you might have about the event. We anticipate that the office hour would be most helpful for those who are new to package development and collaboration on GitHub, but all are welcome to attend regardless of prior experience. 
 
