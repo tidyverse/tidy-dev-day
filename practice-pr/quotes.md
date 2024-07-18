@@ -1,0 +1,10 @@
+# Daily quotes
+
+
+> “All grown-ups were once children… but only few of them remember it.”
+>
+> Antoine de Saint-Exupéry, The Little Prince
+
+> “Just because it’s what’s done doesn’t mean it’s what should be done!”
+>
+> Cinderella
