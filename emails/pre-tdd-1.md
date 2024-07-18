@@ -1,20 +1,16 @@
 Hi everyone,
 
-Tidyverse Developer Day is coming up soon -- Thursday, August 15!
+Tidyverse Developer Day is coming up soon on Thursday, August 15! We'll meet at the Fred Hutch Cancer Center. We'll kick off the program at 9am, but we recommend that you come a little earlier (>=8:30am) in order to setup and grab some coffee. We'll provide coffee, snacks, and lunch, but you might want to get breakfast before you arrive. The day will wrap up with a social hour at 4pm.
 
-To help us plan projects for the Tidyverse Developer Day, could you please fill out the following (extremely short!) survey: https://forms.gle/6n5vD1zwZQpu2mQk7.
+There are three things we recommend you do before the day:
 
-We'll meet at the Fred Hutch Cancer Center, starting at 9am. We will send more detail instructions for getting closer to date. We recommend you come a little earlier (>=8:30am). We will provide coffee, lunch and heavy snacks throughout the day but you might want to get breakfast before you arrive. We'll wrap up the day with a social hour at 4pm.
+* Fill out this (very short) survey so we can learn more about your goals and current skills: <https://forms.gle/6n5vD1zwZQpu2mQk7>.
 
-To get ready for the day, please follow the steps under "Get ready" at https://github.com/tidyverse/tidy-dev-day?tab=readme-ov-file#0-get-ready. Other helpful resources are as follows:
+* Check that you're ready to work on an R package with Git and GitHub by following the steps at <https://github.com/tidyverse/tidy-dev-day?tab=readme-ov-file#0-get-ready>. 
 
-- Good source for getting the basic set up done: https://happygitwithr.com/
-- Example of small PR: https://usethis.r-lib.org/articles/pr-functions.html
-- Preparing a system for package dev: https://r-pkgs.org/setup.html
+* If you haven't made a pull request (PR) before, please make a practice PR by following the instructions at <https://github.com/tidyverse/tidy-dev-day/tree/main/practice-pr>.
 
-If you haven't made a pull request (PR) before, please also practice this once by following the instructions at https://github.com/tidyverse/tidy-dev-day/blob/main/practice-pr/README.md.
-
-Additionally, we will be holding two (optional) hour-long virtual "office hours" for Tidyverse Developer Day participants prior to event to help you with your Git workflow so that you can stroll into TDD confident that your R, RStudio, Git, and GitHub are set up in the most ideal way possible to work in harmony on your laptop. We will also answer any questions you might have about the event. We anticipate that the office hour would be most helpful for those who are new to package development and collaboration on GitHub, but all are welcome to attend regardless of prior experience. 
+If you run into any problems, we are hosting two (optional) hour-long virtual "office hours" prior to the event. Here you can get help with your Git workflow so that you can stroll into TDD confident that your R, RStudio, Git, and GitHub are set up in the best way possible. We will also answer any questions you might have about the event. We anticipate that the office hour would be most helpful for those who are new to package development and collaboration on GitHub, but all are welcome to attend regardless of prior experience. 
 
 The office hours will be for one hour, starting at the following times:
 
