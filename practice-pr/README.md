@@ -6,7 +6,7 @@ The steps outlined for each option utilize [**usethis** PR helpers](https://uset
 
 ## Option 1: Add a dad joke to `dad-jokes.yaml`
 
-Goal: Practice making a PR by adding text to a yaml file.
+Goal: Practice making a PR by adding modifying a single text file.
 
 Steps:
 
@@ -27,7 +27,7 @@ Need inspiration? Get a quote from <https://bookdown.org/pkaldunn/DUH/QuestionAn
 
 ## Option 2: Add a quote to `quotes.qmd`
 
-Goal: Practice making a PR by adding text to a Quarto file and updating source and output.
+Goal: Practice making a PR by updating multiple files.
 
 Steps:
 
@@ -42,9 +42,9 @@ Steps:
 ```
 
 4. Render the document to update `quotes.md`.
-4. Commit your changes with a short but informative commit message. Make sure that you commit `quotes.qmd` as well as its output `quotes.md`.
-5. Push your changes with `usethis::pr_push()`, which will open a web browser where you can submit your PR.
-6. Follow the steps in the GitHub web interface to finalize and submit your PR.
+5. Commit your changes with a short but informative commit message. Make sure that you commit `quotes.qmd` as well as its output `quotes.md`.
+6. Push your changes with `usethis::pr_push()`, which will open a web browser where you can submit your PR.
+7. Follow the steps in the GitHub web interface to finalize and submit your PR.
 
 Need inspiration? Get a quote from <https://www.brainyquote.com/topics/motivational-quotes> or using the [**statquotes**](https://cran.r-project.org/web/packages/statquotes/index.html) package.
 
@@ -74,8 +74,8 @@ ggplot(bullseye, aes(x = x, y = y)) +
 ```
 
 4. Run your code to make sure it creates a new plot with no errors.
-4. Commit your changes with a short but informative commit message.
-5. Push your changes with `usethis::pr_push()`, which will open a web browser where you can submit your PR.
-6. Follow the steps in the GitHub web interface to finalize and submit your PR.
+5. Commit your changes with a short but informative commit message.
+6. Push your changes with `usethis::pr_push()`, which will open a web browser where you can submit your PR.
+7. Follow the steps in the GitHub web interface to finalize and submit your PR.
 
 Need inspiration? Pick a new color from <https://stat.columbia.edu/~tzheng/files/Rcolor.pdf> and a new shape from <https://ggplot2.tidyverse.org/articles/ggplot2-specs.html#sec:shape-spec>.
