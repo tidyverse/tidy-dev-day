@@ -1,7 +1,7 @@
 # Practice making a PR
 
 We strongly recommend practicing making a pull request (PR) prior to TDD, especially if you haven't made a PR before.
-We have provided three options, just pick one!
+We have provided three options, you only need to pick one!
 The steps outlined for each option utilize [**usethis** PR helpers](https://usethis.r-lib.org/articles/pr-functions.html), but you're welcomed to use an alternate approach as well.
 
 ## Option 1: Add a dad joke to `dad-jokes.yaml`
