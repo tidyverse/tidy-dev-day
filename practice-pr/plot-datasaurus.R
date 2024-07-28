@@ -3,13 +3,13 @@
 library(datasauRus)
 library(tidyverse)
 
-# filter for star data --------------------------------------------------------
+# filter for dino data --------------------------------------------------------
 
-star <- datasaurus_dozen |>
-  filter(dataset == "star")
+dino <- datasaurus_dozen |>
+  filter(dataset == "dino")
 
-# plot star data --------------------------------------------------------------
+# plot dino data --------------------------------------------------------------
 
-ggplot(star, aes(x = x, y = y)) +
-  geom_point(color = "skyblue3", shape = "asterisk") +
+ggplot(dino, aes(x = x, y = y)) +
+  geom_point(color = "yellow4", shape = "T") +
   theme_void()
