@@ -3,14 +3,13 @@
 library(datasauRus)
 library(tidyverse)
 
-# filter for dino data --------------------------------------------------------
+# filter for bullseye data ----------------------------------------------------
 
-dino <- datasaurus_dozen |>
-  filter(dataset == "dino")
+bullseye <- datasaurus_dozen |>
+  filter(dataset == "bullseye")
 
-# plot dino data --------------------------------------------------------------
+# plot bullseye data ----------------------------------------------------------
 
-ggplot(dino, aes(x = x, y = y)) +
-  geom_point(color = "yellow4", shape = "T") +
+ggplot(bullseye, aes(x = x, y = y)) +
+  geom_point(color = "firebrick1", shape = "circle plus") +
   theme_void()
-
