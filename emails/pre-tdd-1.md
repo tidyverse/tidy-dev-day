@@ -17,6 +17,6 @@ The office hours will be for one hour, starting at the following times:
 - Mon, July 29 - 12:00 PST / 15:00 EST / 19:00 GMT
 - Wed, July 31 - 07:00 PST / 10:00 EST / 14:00 GMT
 
-You can join at https://positpbc.zoom.us/j/93415867745 anytime during the hour.
+You can join at https://positpbc.zoom.us/j/7714513736 anytime during the hour.
 
 Looking forward to seeing you all soon!
