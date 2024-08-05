@@ -17,14 +17,18 @@ The goal of this worksheet is to guide you through the steps needed to successfu
 
 ### 0. Get ready
 
-1. `install.packages("pak")`
+```{=typst}
+#set list(marker: ([#sym.square.stroked], [-]))
+```
 
-1. `pak::pak("devtools")`
+- `install.packages("pak")`
 
-1. .Set up your GitHub personal access token.
+- `pak::pak("devtools")`
+
+- .Set up your GitHub personal access token.
     - `usethis.r-lib.org` -> Articles -> Managing Git(Hub) Credentials
 
-1. Call `usethis::git_sitrep()` and check that:
+- Call `usethis::git_sitrep()` and check that:
     - Your name and email address appears in "Git config (global)"
     - Your GitHub user name is found under "Github"
 
