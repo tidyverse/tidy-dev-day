@@ -9,6 +9,8 @@ format: typst
   margin: (x: 0.5in, y: 1in),
   numbering: none
 )
+
+#set list(marker: ([#sym.square.stroked], [-]))
 ```
 
 ## Writing your first documentation PR
@@ -16,10 +18,6 @@ format: typst
 The goal of this worksheet is to guide you through the steps needed to successfully create a documentation PR (pull request). Empty spaces have been placed on this sheet for your notes.
 
 ### 0. Get ready
-
-```{=typst}
-#set list(marker: ([#sym.square.stroked], [-]))
-```
 
 - `install.packages("pak")`
 
