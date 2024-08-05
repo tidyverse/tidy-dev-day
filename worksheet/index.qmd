@@ -56,7 +56,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 ```
 
 ```{=typst}
-#v(0.3in)
+#v(1in)
 ```
 
 ### 2. Get the source locally
@@ -121,7 +121,7 @@ A person from the tidyverse team will try and review your issue as quickly as po
 If you've committed a bigger PR, it might take a bit longer to review, and we might not be able to complete it on the day. Don't worry if this happens to you! We really appreciate your contribution and just need a bit more time to take it in.
 
 ```{=typst}
-#v(0.25in)
+#v(2in)
 ```
 
 ## Wrap up
