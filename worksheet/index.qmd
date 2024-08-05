@@ -44,7 +44,21 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 
 ```{=typst}
 #colbreak()
-#v(3.5in)
+```
+
+```{=typst}
+#align(center)[
+  #box(
+    height: 3in,
+    width: 3in,
+    stroke: black,
+    [#align(center + horizon)[Place Post-it here]]
+  )
+]
+```
+
+```{=typst}
+#v(0.3in)
 ```
 
 ### 2. Get the source locally
