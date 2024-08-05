@@ -84,7 +84,11 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
   
 * use `devtools::document()` to update the docs.
 
-* Commit the change with your git client.
+* Commit the change.
+  * Check changed files in the git pane.
+  * Press `Commit` button.
+  * Write a short message (<80 characters) detailing the change.
+  * Press `Commit` button.
 
 ```{=typst}
 #v(1in)
