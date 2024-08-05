@@ -1,0 +1,48 @@
+---
+title: "Tidyverse developer day bingo"
+format: pdf
+---
+
+Welcome to tidyverse developer day! To help get to know each other, we'll start the day off with a short game. It will go like this:
+
+-   Mingle and find people who match the descriptions on your card.
+
+-   When you find a match, write the person's name in the corresponding square. (Only one square per person!)
+
+-   The goal is to fill as many squares as possible. Once you've filled in the whole card, find Simon to congregate for a group photo!
+
+    <br>
+
++-----------------------------------------+-------------------------------------+-------------------------------------+--------------------------------------------+
+| ​Added a "dad joke" practice PR          | Attended a workshop at conf         | Has a hex sticker on their laptop   | Knows what "CRAN" stands for               |
+|                                         |                                     |                                     |                                            |
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| Name: \_\_\_\_\_\_\_\_                  | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_\_                     |
++-----------------------------------------+-------------------------------------+-------------------------------------+--------------------------------------------+
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| Maintains an R package                  | Has participated in TidyTuesday     | First time visiting Seattle         | Knows the three rules defining "tidy" data |
+|                                         |                                     |                                     |                                            |
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| Name: \_\_\_\_\_\_\_\_                  | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_\_                     |
++-----------------------------------------+-------------------------------------+-------------------------------------+--------------------------------------------+
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| This year was their first posit::conf() | Migrated to R from another language | Has installed a package from GitHub | Has reported a bug in an R package         |
+|                                         |                                     |                                     |                                            |
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| Name: \_\_\_\_\_\_\_\_                  | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_\_                     |
++-----------------------------------------+-------------------------------------+-------------------------------------+--------------------------------------------+
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| Has made a Shiny app                    | Has been to a useR! before          | Has Positron installed              | Uses ggplot2 at work weekly                |
+|                                         |                                     |                                     |                                            |
+| ​                                        | ​                                    | ​                                    | ​                                           |
+|                                         |                                     |                                     |                                            |
+| Name: \_\_\_\_\_\_\_\_                  | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_                | Name: \_\_\_\_\_\_\_\_                     |
++-----------------------------------------+-------------------------------------+-------------------------------------+--------------------------------------------+
+
+: {tbl-colwidths="\[25,23,25,27\]"}
