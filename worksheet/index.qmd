@@ -67,11 +67,9 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 
 * `pak::local_install_dev_deps()` to make sure you've got the necessary packages.
 
-* If you're working on a documentation issue, run `devtools::document()` to make sure you have everything necessary to update the docs before you make any changes.
-  
-* If you're working on a bug or feature, run `devtools::check()` to get a baseline.
+* Run `devtools::document()` to make sure you have everything necessary to update the docs before you make any changes.
 
-* If running `devtools::documents()` or `devtools::check()` fails, something is probably off with the setup of your machine and you should seek help.
+* If running `devtools::documents()` fails or produces changes, something is probably off with the setup of your machine and you should seek help.
 
 ```{=typst}
 #pagebreak()
@@ -84,21 +82,9 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 
 * Make your change. 
   
-  * If you're writing documentation, use `devtools::document()` to 
-    update the docs.
-
-  * If you're writing code, add a test or two. 
-    Iterate quickly with `devtools::load_all()` and `devtools::test()`.
-
-* `devtools::check()` to make sure all is still well.
+* use `devtools::document()` to update the docs.
 
 * Commit the change with your git client.
-
-* If the feature is user-facing (i.e. it adds a new feature or fixes a bug), add a bullet to NEWS. Be concise, link to the issue, and tag yourself.
-
-  ```
-  * `use_circleci()` creates a `.circleci/config.yaml` config file for CircleCI (#703, @jdblischak).
-  ```
 
 ```{=typst}
 #v(1in)
