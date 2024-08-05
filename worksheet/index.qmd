@@ -62,7 +62,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 ### 2. Get the source locally
 
 * **Fork** and clone the repository using this syntax: 
-    - `usethis::create_from_github("{org}/{repo}")` 
+    - `usethis::create_from_github("           /           ")` 
     - (e.g `usethis::create_from_github("tidyverse/ggplot2")`)
 
 * `pak::local_install_dev_deps()` to make sure you've got the necessary packages.
@@ -80,7 +80,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 ### 3. Make the change
 
 * Create a new branch for your changes to live with
-  `usethis::pr_init("very-brief-description")`
+  * `usethis::pr_init("                      ")`
 
 * Make your change. 
   
@@ -110,7 +110,7 @@ Push and make a PR with `usethis::pr_push()`.
   
 - Make the title descriptive:
   - Not good: "Working on issue 45"
-  - Much better: "Use stricter regexes for package and file name checks"
+  - Your title: `"                              "`
 
 - In the description (not the title), use the [magic fixes keyword](https://help.github.com/en/articles/closing-issues-using-keywords), e.g. "Fixes #123", to link & close your issue.
 
