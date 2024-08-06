@@ -10,7 +10,7 @@ format: typst
   numbering: none
 )
 
-#set list(marker: ([#sym.square.stroked], [-]))
+#set list(marker: ([#scale(x: 200%, y: 200%, origin: bottom)[#sym.square.stroked]], [-]))
 ```
 
 ## Writing your first documentation PR
