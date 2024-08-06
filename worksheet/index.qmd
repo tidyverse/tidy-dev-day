@@ -15,7 +15,7 @@ format: typst
 
 ## Writing your first documentation PR
 
-The goal of this worksheet is to guide you through the steps needed to successfully create a documentation PR (pull request). Empty spaces have been placed on this sheet for your notes.
+The goal of this worksheet is to guide you through the steps needed to successfully create your first PR (pull request). Empty spaces have been placed on this sheet for your notes.
 
 ### 0. Get ready
 
@@ -23,7 +23,7 @@ The goal of this worksheet is to guide you through the steps needed to successfu
 
 - `pak::pak("devtools")`
 
-- .Set up your GitHub personal access token.
+- Set up your GitHub personal access token.
     - `usethis.r-lib.org` -> Articles -> Managing Git(Hub) Credentials
 
 - Call `usethis::git_sitrep()` and check that:
@@ -36,7 +36,7 @@ The goal of this worksheet is to guide you through the steps needed to successfu
 
 ### 1. Find and claim an issue
 
-Browse the Post-Its, looking for something of interest. If you've never done a PR before, we recommend that you start with a documentation issue since there are slightly fewer moving parts. We also encouraged you to team up with a (new) friend and tackle something together!
+Browse the Post-its, looking for something of interest. Since you've never done a PR before, we recommend starting with a documentation issue since there are slightly fewer moving parts. We also encourage you to team up with a (new) friend and tackle something together!
 
 Once you've picked a Post-it, open the issue and read the details in full. At this point, you might discover the issue is outside your wheelhouse; if so, no problem, just return the Post-it to the wall and try again.
 
@@ -62,14 +62,14 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 ### 2. Get the source locally
 
 * **Fork** and clone the repository using this syntax: 
-    - `usethis::create_from_github("           /           ")` 
+    - `usethis::create_from_github("________________/________________")` 
     - (e.g `usethis::create_from_github("tidyverse/ggplot2")`)
 
 * `pak::local_install_dev_deps()` to make sure you've got the necessary packages.
 
 * Run `devtools::document()` to make sure you have everything necessary to update the docs before you make any changes.
 
-* If running `devtools::documents()` fails or produces changes, something is probably off with the setup of your machine and you should seek help.
+* If running `devtools::document()` fails or produces changes, something is probably off with your setup and you should seek help.
 
 ```{=typst}
 #pagebreak()
@@ -78,7 +78,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 ### 3. Make the change
 
 * Create a new branch for your changes to live with
-  * `usethis::pr_init("                      ")`
+  * `usethis::pr_init("______________________")`
 
 * Make your change. 
   
