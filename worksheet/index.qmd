@@ -88,7 +88,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 
 * Create a new branch for your changes to live with
   * `usethis::pr_init("______________________")`
-    - (e.g `usethis::pr_init("add-snapshot-tests")`)
+  * (e.g `usethis::pr_init("add-snapshot-tests")`)
 * Make your change. 
   
 * use `devtools::document()` to update the docs.
@@ -132,6 +132,10 @@ Push and make a PR with `usethis::pr_push()`.
 ### 5. Wait for review
 
 A person from the tidyverse team will try and review your issue as quickly as possible, reading through your PR and offering suggestions for how to improve it. 
+
+```{=typst}
+#set list(marker: [--])
+```
 
 - `pr_pause()`: If you want to work on something else while you wait.
 - `pr_resume()`: Lets you resume work on a PR you paused with `pr_pause()` by switching back to it.
