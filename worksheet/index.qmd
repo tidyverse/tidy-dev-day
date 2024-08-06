@@ -33,7 +33,8 @@ The goal of this worksheet is to guide you through the steps needed to successfu
 - Call `usethis::git_sitrep()` and check that:
     - Your name and email address appears in "Git config (global)"
     - Your GitHub user name is found under "Github"
-
+    - Your GitHub personal access token is discovered and there is no warning about its scopes
+    - If `Vaccinated: FALSE`, consider running `usethis::git_vaccinate()`.
 ```{=typst}
 #set list(marker: ([#scale(x: 200%, y: 200%, origin: bottom)[#sym.square.stroked]], [-]))
 ```
@@ -87,7 +88,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 
 * Create a new branch for your changes to live with
   * `usethis::pr_init("______________________")`
-
+    - (e.g `usethis::pr_init("add-snapshot-tests")`)
 * Make your change. 
   
 * use `devtools::document()` to update the docs.
@@ -117,7 +118,6 @@ Push and make a PR with `usethis::pr_push()`.
 - Make the title descriptive:
   - Not good: "Working on issue 45"
   - Good: "Use stricter regexes for package and file name checks"
-  - Your title: `"_______________"`
 
 - Example with descriptive title and description containing magic keywords: https://github.com/r-lib/usethis/pull/742 
 
