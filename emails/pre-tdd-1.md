@@ -1,10 +1,10 @@
 Hi everyone,
 
-Tidyverse Developer Day is coming up soon on Friday, September 19! We'll meet at the ___ [TO DO: Need to update location]. We'll kick off the program at 9am, but we recommend that you come a little earlier (>=8:30am) in order to setup and grab some coffee. We'll provide coffee, snacks, and lunch, but you might want to get breakfast before you arrive. The day will wrap up with a social hour at 4pm. [TO DO: Confirm schedule]
+Tidyverse Developer Day is coming up soon on Friday, September 19! We'll meet at the [event center](https://cas.gsu.edu/eventcenter) of the College of Arts & Sciences of Georgia State University. We'll kick off the program at 9am, but we recommend that you come a little earlier (>=8:30am) in order to setup and grab some coffee. We'll provide coffee, snacks, and lunch, but you might want to get breakfast before you arrive. The day will wrap up with a social hour from roughly 5:00-7:30pm at [Stats Brewpub](https://www.statsatl.com), [a 15 minute walk away](https://maps.app.goo.gl/BTyuiLFQAXUs5Xe3A).
 
 There are three things we recommend you do before the day:
 
-* Fill out this (very short) survey so we can learn more about your goals and current skills: <https://forms.gle/6n5vD1zwZQpu2mQk7>. [TO DO: Update survey link]
+* Fill out this (very short) survey so we can learn more about your goals and current skills: <https://forms.gle/mutmiDG1vqVhtD5Z7>.
 
 * Check that you're ready to work on an R package with Git and GitHub by following the steps at <https://github.com/tidyverse/tidy-dev-day?tab=readme-ov-file#0-get-ready>. 
 
