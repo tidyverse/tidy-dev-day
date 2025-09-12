@@ -12,3 +12,8 @@
 > “Never change the deal.”
 >
 > The Transporter
+
+> “It ain’t what you don’t know that gets you in trouble. It’s what you
+> know for sure that just ain’t so.”
+>
+> Mark Twain (or Josh Billings)
