@@ -8,6 +8,8 @@
 
 ## Past Dev Days
 
+* [2025-09-19](https://www.tidyverse.org/blog/2025/07/tdd-2025/) following [posit::conf(2025)](https://posit.co/conference/) in Atlanta. 
+* [2024-08-15](https://www.tidyverse.org/blog/2024/04/tdd-2024/) following [posit::conf(2024)](https://posit.co/conference/) in Seattle. 
 * [2020-01-31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/),
   following [rstudio::conf(2020)](https://rstd.io/conf)
 * [2019-07-08](https://www.tidyverse.org/blog/2019/04/tidyverse-dev-day-at-user-2019/),
