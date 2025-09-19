@@ -88,7 +88,7 @@ Once you've picked a Post-it, open the issue and read the details in full. At th
 
 * Create a new branch for your changes to live with
   * `usethis::pr_init("______________________")`
-  * (e.g `usethis::pr_init("add-snapshot-tests")`)
+  * (e.g `usethis::pr_init("review-count-docs")`)
 * Make your change. 
   
 * use `devtools::document()` to update the docs.
