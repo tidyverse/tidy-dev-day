@@ -18,7 +18,8 @@ TODO: Lionel
 
 -   Need location for barrista (including power).
 
--   Will self-cater lunch + snacks. Ideally there is a full-size fridge we can use for beverages
+-   Will self-cater lunch + snacks.
+    Ideally there is a full-size fridge we can use for beverages
 
 -   Need multiplugs + WiFi + ability to show presentation.
 
@@ -26,10 +27,10 @@ Follow up with the venue 6 weeks before and 2 weeks before to ensure they are st
 
 ### Create event page
 
-* Can clone from previous [Luma](https://luma.com/mpr5c30q).
-* 20 helpers (free with code to register), 30 URM, 30 GA.
-* Need to more clearly describe URM + GA options on Luma.
-* Food options: vegan, vegetarian, gluten-free.
+-   Can clone from previous [Luma](https://luma.com/mpr5c30q).
+-   20 helpers (free with code to register), 30 URM, 30 GA.
+-   Need to more clearly describe URM + GA options on Luma.
+-   Food options: vegan, vegetarian, gluten-free.
 
 ### Write call-to-signup blog post
 
@@ -37,9 +38,9 @@ Here is an example from [a previous year](https://github.com/tidyverse/tidyverse
 
 ### Commission token of appreciation
 
-* Ask Greg to update PDF with new date + location.
-* Order 80 coins from WizardPins.
-* "Custom soft enamel pins", 1.74” x 2”.
+-   Ask Greg to update PDF with new date + location.
+-   Order 80 coins from WizardPins.
+-   "Custom soft enamel pins", 1.74” x 2”.
 
 ### Find and contract a barista
 
@@ -224,19 +225,20 @@ The `opening.key` and `closing.key` decks in `slides/`.
 
 ### Host Git office hours
 
-- Schedule Git office hours to be one week (no more than two weeks) prior to TDD
+-   Schedule Git office hours to be one week (no more than two weeks) prior to TDD
 
-- Announce them one month prior and then again a week before the office hours to participants who have signed up
+-   Announce them one month prior and then again a week before the office hours to participants who have signed up
 
-- One hour is sufficient
+-   One hour is sufficient
 
-- 11am ET is a generally not terrible time for an international audience
+-   11am ET is a generally not terrible time for an international audience
 
-- During office hours:
-  - 2-3 min summary of how the day will go is a good way to start the hour.
-  - Have everyone who shows up to office hours run `git_sitrep()` and check they have their setup correct, help them get there if not.
-  - If people have questions, answer those. Even better if they're willing to share their screen and work through it.
-  - If not, demo doig a PR using the instructions in the practice-pr exercise and share screen -- this usually brings up questions.
+-   During office hours:
+
+    -   2-3 min summary of how the day will go is a good way to start the hour.
+    -   Have everyone who shows up to office hours run `git_sitrep()` and check they have their setup correct, help them get there if not.
+    -   If people have questions, answer those. Even better if they're willing to share their screen and work through it.
+    -   If not, demo doig a PR using the instructions in the practice-pr exercise and share screen -- this usually brings up questions.
 
 ## Day of
 
