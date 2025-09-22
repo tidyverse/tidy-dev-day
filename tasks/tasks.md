@@ -100,13 +100,21 @@ In Atlanta we used [Stats Brewpub](https://www.statsatl.com/).
 
 TODO: Hannah
 
--   \~\$2000
+-   Pizza as the first option
 
--   Sandwiches normally work well.
-    Pizza has also worked very well (we had sandwiches as well).
+    -   \~\$600
 
--   Consider dietary restrictions.
-    Vegetarian options are usually safest (covers vegetarian, no fish/seafood, no red meat, halal).
+    -   Typically higher quality than sandwiches, try to pick up from a local restaurant
+
+    -   Cheese pizza meets a vegetarian restriction
+
+    -   Offer \$10 for anyone with additional requirements to secure their own lunch on their own
+
+-   Sandwiches as a backup option if pizza doesn't work
+
+    -   \~\$2000, so much more expensive than pizza, and generally less tasty
+
+    -   Need vegetarian options if you go this route
 
 -   Set up lunch around 11:30am.
     Eat around 12:15pm.
