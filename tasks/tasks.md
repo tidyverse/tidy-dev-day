@@ -149,12 +149,7 @@ Git office hours should be no more than two weeks prior (ideally one week prior)
 ### Plan issue labeling extravaganza
 
 -   Check old issues labeled with `tidy-dev-day` to see if they are still relevant or not. [This search link](https://github.com/search?q=org%3Atidyverse+label%3A%22tidy-dev-day+%3Anerd_face%3A%22+state%3Aopen&type=issues) can help.
-
-<!-- -->
-
--   We typically create an issue in tidy-dev-day documenting things that might be useful as issues for this tidy-dev-day, like [this one](https://github.com/tidyverse/tidy-dev-day/issues/79), and then we go through and label them with the `tidy-dev-day` tag.
-    If your repo doesn't have this label yet, use `usethis::use_tidy_github_labels()`.
-
+-   We typically create an issue in tidy-dev-day documenting things that might be useful as issues for this tidy-dev-day, like [this one](https://github.com/tidyverse/tidy-dev-day/issues/79), and then we go through and label them with the `tidy-dev-day` tag. If your repo doesn't have this label yet, use `usethis::use_tidy_github_labels()`.
     -   Avoid long form documentation issues, i.e. avoid "make a new vignette" issues, as they take too much time for the reviewer day-of.
 
     -   Avoid "make a cheat sheet" or "tweak a cheat sheet" issues
