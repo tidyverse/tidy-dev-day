@@ -188,24 +188,25 @@ Git office hours should be no more than two weeks prior (ideally one week prior)
 
 -   Order scotch tape for the gong return box (share with tape required for labels)
 
-### Snacks
+### Snacks / Drinks
 
 Snacks for tidy-dev-day are usually bought by whoever has a car at posit::conf.
 Enough for \~80 people.
 
 Depending on catering, may also need napkins, plates, and utensils.
 
--   Cups
-
--   Chips
+-   Chips (pringles, cheez-its, etc)
 
 -   Bags of small chocolates / gummies (this is a good substitute for actual dessert)
 
 -   Beverages (sparkling water, sodas)
 
+Coordinate with a local Posit employee to find a large cooler for the beverages (ideally more than one).
+This is generally better than trying to buy plastic cups.
+Ice is bought day of.
+
 If you do not have a car, or don't have a Costco nearby, then using DoorDash is a reasonable option.
 We did this in Atlanta using Jenny's account and it worked well.
-We even ordered a rolling cooler to put ice in.
 
 ### Polish and print ice breaker activity
 
@@ -241,16 +242,14 @@ The `opening.key` and `closing.key` decks in `slides/`.
     -   2-3 min summary of how the day will go is a good way to start the hour.
     -   Have everyone who shows up to office hours run `git_sitrep()` and check they have their setup correct, help them get there if not.
     -   If people have questions, answer those. Even better if they're willing to share their screen and work through it.
-    -   If not, demo doig a PR using the instructions in the practice-pr exercise and share screen -- this usually brings up questions.
+    -   If not, demo doing a PR using the instructions in the practice-pr exercise and share screen -- this usually brings up questions.
 
 ## Day of
 
 ### Ice
 
 Buy 4 bags of ice and transport to the venue.
-Put in a cooler if we have one.
-People can put ice in cups and pour a room temperature soda into it.
-That's easier than trying to chill the sodas.
+Put in a cooler donated from a local Posit employee and chill drinks.
 
 This is optional if the venue has a full-size fridge to put drinks in.
 
