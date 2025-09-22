@@ -6,26 +6,30 @@
 
 TODO: Lionel
 
+-   Event is 9am-4pm; need space 8am-5pm.
+
 -   80 people (60 + helpers).
     This is a pretty manageable size.
     We have also done 100 people, but 80 feels more intimate and fun.
     This gives a 1:3 helper ratio, which feels good.
 
--   Ideally there is a full-size fridge we can use for beverages
-
 -   Avoid the classroom layout of long rectangle tables.
     Prefer circular tables if possible as they encourage group discussion (and attendees seem to really like it).
 
--   Talk with the social hour planner to ensure that the end time of the venue overlaps slightly with the start time of social hour (we don't want an hour long gap between them).
+-   Need location for barrista (including power).
+
+-   Will self-cater lunch + snacks. Ideally there is a full-size fridge we can use for beverages
+
+-   Need multiplugs + WiFi + ability to show presentation.
 
 Follow up with the venue 6 weeks before and 2 weeks before to ensure they are still good to go
 
 ### Create event page
 
-We have used [Luma](https://luma.com/mpr5c30q) in the past.
-
-This usually has a catering survey.
-Make this more constrained than a free text box for easier processing on the backend.
+* Can clone from previous [Luma](https://luma.com/mpr5c30q).
+* 20 helpers (free with code to register), 30 URM, 30 GA.
+* Need to more clearly describe URM + GA options on Luma.
+* Food options: vegan, vegetarian, gluten-free.
 
 ### Write call-to-signup blog post
 
@@ -33,7 +37,9 @@ Here is an example from [a previous year](https://github.com/tidyverse/tidyverse
 
 ### Commission token of appreciation
 
-TODO: Hadley
+* Ask Greg to update PDF with new date + location.
+* Order 80 coins from WizardPins.
+* "Custom soft enamel pins", 1.74” x 2”.
 
 ### Find and contract a barista
 
@@ -170,7 +176,7 @@ Git office hours should be no more than two weeks prior (ideally one week prior)
 
 -   Order 80 name tags
 
--   Order sharpies
+-   Order/bring sharpies
 
 ### Gong
 
@@ -183,13 +189,9 @@ Git office hours should be no more than two weeks prior (ideally one week prior)
 Snacks for tidy-dev-day are usually bought by whoever has a car at posit::conf.
 Enough for \~80 people.
 
--   Napkins
-
--   Plates
+Depending on catering, may also need napkins, plates, and utensils.
 
 -   Cups
-
--   Utensils (only required if lunch requires them)
 
 -   Chips
 
