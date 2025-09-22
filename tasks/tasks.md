@@ -224,7 +224,19 @@ The `opening.key` and `closing.key` decks in `slides/`.
 
 ### Host Git office hours
 
-TODO: Mine
+- Schedule Git office hours to be one week (no more than two weeks) prior to TDD
+
+- Announce them one month prior and then again a week before the office hours to participants who have signed up
+
+- One hour is sufficient
+
+- 11am ET is a generally not terrible time for an international audience
+
+- During office hours:
+  - 2-3 min summary of how the day will go is a good way to start the hour.
+  - Have everyone who shows up to office hours run `git_sitrep()` and check they have their setup correct, help them get there if not.
+  - If people have questions, answer those. Even better if they're willing to share their screen and work through it.
+  - If not, demo doig a PR using the instructions in the practice-pr exercise and share screen -- this usually brings up questions.
 
 ## Day of
 
