@@ -204,7 +204,7 @@ We even ordered a rolling cooler to put ice in.
 ### Polish and print ice breaker activity
 
 Bingo works great.
-Looking for `bingo.qmd` and `bingo.pdf`.
+Looking for `bingo.qmd` and `bingo.pdf` in `bingo/`.
 
 ### Polish and print PR worksheet
 
@@ -212,7 +212,7 @@ The `worksheet/` folder
 
 ### Polish opening and closing slides
 
-The `opening.key` and `closing.key` decks.
+The `opening.key` and `closing.key` decks in `slides/`.
 
 -   WiFi
 
