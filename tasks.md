@@ -60,7 +60,7 @@ TODO: Hadley
 
 In previous years we have used [Espresso Elegance](https://www.espressoelegance.com/) in Seattle and [Livewire](https://www.livewire.coffee/) in Atlanta.
 
-## Plan post tidy-dev-day social event
+### Plan post tidy-dev-day social event
 
 Rent time at a bar after tidy-dev-day where we provide 1 drink ticket per person.
 
