@@ -34,6 +34,8 @@
 
 -   The contract will need to be reviewed by legal and signed (e.g. by the CFO). To that end, go to your Okta dashboard, click on the Posit Help Center tile, and request a Legal Review.
 
+    As part of the review, they will make sure Posit is insured in a way that conforms to the contract requirement.
+
 -   To pay the invoice, send it to ap@posit.co (accounts payable email address).
 
 -   Follow up with the venue 6 weeks before and 2 weeks before to ensure they are still good to go (we've had one venue cancel on us one week before the event).
