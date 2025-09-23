@@ -4,8 +4,6 @@
 
 ### Find a location
 
-TODO: Lionel
-
 -   Event is 9am-4pm; need space 8am-5pm.
 
 -   80 people (60 + helpers).
@@ -14,7 +12,7 @@ TODO: Lionel
     This gives a 1:3 helper ratio, which feels good.
 
 -   Avoid the classroom layout of long rectangle tables.
-    Prefer circular tables if possible as they encourage group discussion (and attendees seem to really like it).
+    Prefer banquet setups if possible as they encourage group discussion (and attendees seem to really like it).
 
 -   Need location for barrista (including power).
 
@@ -23,7 +21,22 @@ TODO: Lionel
 
 -   Need multiplugs + WiFi + ability to show presentation.
 
-Follow up with the venue 6 weeks before and 2 weeks before to ensure they are still good to go
+-   Universities often have multiple event venues that might be appropriate.
+    It might be helpful to find a local R user that works there to help us find a good place.
+
+-   There are also non-academic events spaces (wedding, business, etc) that are likely more expensive but can be good choices, especially if they are more comfortable.
+    Many of them will not allow self-catering.
+
+-   Expected cost:
+
+    -   In 2025 we started out with an acamedic venue for $2k: 80 banquet seats and 50 others in 2 adjacent rooms (we were planning for 100 + a Shiny event), with a catering space (https://cas.gsu.edu/eventcenter/).
+        After they cancelled, we found another non-academic venue for $4k: 80 banquet seats with a lounge area and a catering space (https://www.terminus330.com).
+
+-   The contract will need to be reviewed by legal and signed (e.g. by the CFO). To that end, go to your Okta dashboard, click on the Posit Help Center tile, and request a Legal Review.
+
+-   To pay the invoice, send it to ap@posit.co (accounts payable email address).
+
+-   Follow up with the venue 6 weeks before and 2 weeks before to ensure they are still good to go (we've had one venue cancel on us one week before the event).
 
 ### Create event page
 
