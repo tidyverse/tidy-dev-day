@@ -1,10 +1,10 @@
 # Using AI well at Tidy Dev Day
 
-TL;DR: AI tools are welcome at Tidy Dev Day — use them to build understanding, not to skip it. Don't use AI solely to produce a fix and then submit it. AI can help you understand the issue, build a reprex, explore the codebase, propose approaches, and make sense of the resulting fix. But it should not replace the work of understanding the problem, choosing and validating an approach, and responding to review.
-
-Here’s our guidance for getting the most out of the day.
+> TL;DR: AI tools are welcome at Tidy Dev Day — use them to build understanding, not to skip it. Don't use AI solely to produce a fix and then submit it. AI can help you understand the issue, build a reprex, explore the codebase, propose approaches, and make sense of the resulting fix. But it should not replace the work of understanding the problem, choosing and validating an approach, and responding to review.
 
 Since our last Tidy Dev Day, one thing has changed dramatically: many of you will arrive with AI tools that can help you navigate an unfamiliar codebase, write a test, or suggest a possible fix. Before the day arrives, we want to be clear about how we hope you’ll use them.
+
+Here’s our guidance for getting the most out of the day.
 
 ## The point of the day is not just the pull request
 
@@ -20,13 +20,11 @@ If our goal were simply to close issues, we wouldn’t need a venue, a barista, 
 
 These goals are about what happens in your head and between people, not just the diff. It has always been the case that these issues could have been closed much fast, on average, by developers on the tidyverse team. However this is only true in the short-term. In the long term, the investment in building the community is invaluable. A fix you can’t explain may close an issue, but it does not build your ability, confidence, or connection to the project. Nor does it make the day easier for reviewers: every PR is reviewed by a real tidyverse developer, in the room, on the day. A pile of plausible-looking fixes that their authors cannot discuss moves the thinking onto a handful of reviewers.
 
-In short, one very concrete piece of advice: never write a prompt where you just ask an agent to fix the problem outlined in a tidy-dev-day issue.
-
 ## Where AI can help
 
 AI can be a tremendous accelerator when you use it to *build* understanding rather than substitute for it. We encourage you to use it that way throughout the day:
 
-* **Understanding the issue.** Paste in the issue thread and ask for a plain-language explanation. What is the reported behavior? What is expected? What R concepts do you need to understand the problem?
+* **Understanding the issue.** Paste in the issue thread and ask for a plain-language explanation. What is the reported behavior? What is expected? What R concepts do you need to understand the problem? Do not just write a prompt where you just ask an agent to fix the problem outlined in a tidy-dev-day issue.
 
 * **Making a reprex.** A minimal reproducible example is a small, self-contained demonstration of a problem that others can run and inspect. AI can help you strip a problem down to its essential pieces, though it'll often get you 90% of the way, and then you should spend some time personally seeing if you can reduce it further. Confirming that the reprex actually demonstrates the bug is also a great quick check of your understanding.
 
