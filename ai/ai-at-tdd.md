@@ -12,13 +12,15 @@ If our goal were simply to close issues, we wouldn’t need a venue, a barista, 
 
 * **Demystifying contribution.** For many people, the barrier to contributing to open source isn’t ability—it’s the sense that contribution is something other people do. The day lets participants experience the full arc: claim a sticky note, work through the problem, submit a PR, get a review from a tidyverse developer, and smash the gong.
 
-* **Curated, accessible issues.** We select issues that are tractable in a day and genuinely useful, so beginners and veterans alike can find something at the right level of challenge. That challenge is a feature, not an inefficiency to optimize away.
+* **Curated, accessible issues.** We select issues that are tractable in a day and genuinely useful, so beginners and veterans alike can find something at the right level of challenge. That challenge is a feature, not an inefficiency to optimize away, even though an agent is extremely likely to be successful with some of these issues.
 
 * **Learning and community.** Participants don’t need extensive development experience to come—just a GitHub account and basic git familiarity. Much of the value comes from working alongside other people: pairing with a stranger, asking a maintainer, “Why is it done this way?”, and cheering when someone else’s PR is merged.
 
 * **Building a community of maintainers.** The tidyverse’s long-term health depends on people who understand its code, not just those who can generate plausible fixes.
 
-These goals are about what happens in participants’ heads and between people, not just the diff. A fix its author can’t explain may close an issue, but it does not build that person’s ability, confidence, or connection to the project. Nor does it make the day easier for reviewers: every PR is reviewed by a real tidyverse developer, in the room, on the day. A pile of plausible-looking fixes that their authors cannot discuss moves the thinking onto a handful of reviewers.
+These goals are about what happens in participants’ heads and between people, not just the diff. It has always been the case that these issues could have been closed much fast, on average, by developers on the tidyverse team. However this is only true in the short-term. In the long term, the investment in building the community is invaluable. A fix its author can’t explain may close an issue, but it does not build that person’s ability, confidence, or connection to the project. Nor does it make the day easier for reviewers: every PR is reviewed by a real tidyverse developer, in the room, on the day. A pile of plausible-looking fixes that their authors cannot discuss moves the thinking onto a handful of reviewers.
+
+In short, one very concrete advice is to never write a prompt where you just agent to fix the problem outlined in a tidy-dev-day issue.
 
 ## Where AI can help
 
@@ -26,9 +28,9 @@ AI can be a tremendous accelerator when participants use it to *build* understan
 
 * **Understanding the issue.** Participants can paste in the issue thread and ask for a plain-language explanation. What is the reported behavior? What is expected? What R concepts are needed to understand the problem?
 
-* **Making a reprex.** A minimal reproducible example is a small, self-contained demonstration of a problem that others can run and inspect. AI can help participants strip a problem down to its essential pieces. Confirming that the reprex actually demonstrates the bug is also a quick check of their understanding.
+* **Making a reprex.** A minimal reproducible example is a small, self-contained demonstration of a problem that others can run and inspect. AI can help participants strip a problem down to its essential pieces, though it'll often get you 90% of the way, and then you should spend some time personally seeing if you can reduce it further. Confirming that the reprex actually demonstrates the bug is also a great quick check of your understanding.
 
-* **Getting oriented in an unfamiliar codebase.** “Where is `abort()` called from in this package?” “Walk me through what this S3 method does.” Questions like these can take a while to answer by grepping through an unfamiliar codebase; now they can take a minute—and leave participants knowing more.
+* **Getting oriented in an unfamiliar codebase.** “Where is `abort()` called from in this package?” “Walk me through what this S3 method does.” "Explain this traceback." Questions and prompts like these can take a while to answer by grepping through an unfamiliar codebase; now they can take a minute—and leave participants knowing more.
 
 * **Proposing a fix.** Participants can ask for candidate approaches—plural—and then compare them: What are the trade-offs? Does one fit the package’s conventions better? Which approach could they defend in review?
 
