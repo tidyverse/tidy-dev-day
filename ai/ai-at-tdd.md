@@ -39,3 +39,7 @@ AI can be a tremendous accelerator when participants use it to *build* understan
 * **Tests and other scaffolding.** AI can help participants draft test cases, check roxygen2 documentation, tighten a PR description, or untangle a git mishap. But they should understand what each test establishes, why it should fail before the fix, and why it should pass afterward.
 
 A good rule of thumb: *participants should be able to explain the problem, the approach they chose, the tests, and every material change in their PR to their reviewer.* If they cannot, they should pause and use AI—or a person in the room—to help them understand. That understanding is the part they came for.
+
+## Recommended reading
+
+[Code is the Byproduct](https://yagmin.com/blog/code-is-the-byproduct/) by Jim Yagmin, on getting better results from AI tools by using them to build understanding through precise, narrow questions rather than treating them as code generators.
